@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "titulo": "Marmita de Frango",
+        "descricao": "Frango grelhado, arroz, feijão, salada, batata frita",
+        "imagem": "../images/quentinha_frango.png",
+        "preco": "15.00"
+    },
+    {
+        "id": 1,
+        "titulo": "Marmita de Carne",
+        "descricao": "Carne de boi grelhada, arroz, feijão, salada, batata frita",
+        "imagem": "../images/quentinha_carne.png",
+        "preco": "18.00"
+    },
+    {
+        "id": 2,
+        "titulo": "Marmita Vegetariana",
+        "descricao": "Arroz integral, feijão, salada, legumes cozidos, batata-doce",
+        "imagem": "../images/quentinha_vegetariana.png",
+        "preco": "16.00"
+    },
+    {
+        "id": 3,
+        "titulo": "Marmita de Peixe",
+        "descricao": "Peixe grelhado, arroz, feijão, salada, legumes cozidos",
+        "imagem": "../images/quentinha_peixe.png",
+        "preco": "20.00"
+    },
+    {
+        "id": 4,
+        "titulo": "Marmita Mista",
+        "descricao": "Frango grelhado e carne, arroz, feijão, salada, batata frita",
+        "imagem": "../images/mista.png",
+        "preco": "22.00"
+    },
+    {
+        "id": 5,
+        "titulo": "Marmita com Ovo",
+        "descricao": "Arroz, feijão, salada, batata frita, ovo frito",
+        "imagem": "../images/ovo.png",
+        "preco": "14.00"
+    },
+    {
+        "id": 6,
+        "titulo": "Marmita Gourmet",
+        "descricao": "Filé mignon, arroz de brócolis, feijão, batata rústica",
+        "imagem": "../images/gourmet.png",
+        "preco": "30.00"
+    },
+    {
+        "id": 7,
+        "titulo": "Marmita Low Carb",
+        "descricao": "Frango grelhado, salada, abobrinha grelhada, arroz de couve-flor",
+        "imagem": "../images/low.png",
+        "preco": "25.00"
+    },
+    {
+        "id": 8,
+        "titulo": "Marmita com Almôndega",
+        "descricao": "Almôndegas de carne, arroz, feijão,salada",
+        "imagem": "../images/fit.png",
+        "preco": "18.00"
+    },
+    {
+        "id": 9,
+        "titulo": "Marmita de Frango com Batata Doce",
+        "descricao": "Frango grelhado, arroz integral, feijão, batata doce assada",
+        "imagem": "../images/fit2.png",
+        "preco": "19.00"
+    },
+    {
+        "id": 10,
+        "titulo": "Marmita de Carne de Panela",
+        "descricao": "Carne de panela, arroz, feijão, legumes cozidos",
+        "imagem": "../images/carne-panela.png",
+        "preco": "22.00"
+    },
+    {
+        "id": 11,
+        "titulo": "Marmita de Frango à Parmegiana",
+        "descricao": "Frango à parmegiana, arroz, feijão, batata frita",
+        "imagem": "../images/parmegiana.png",
+        "preco": "24.00"
+    },
+    {
+        "id": 12,
+        "titulo": "Marmita de Peixe à Milanesa",
+        "descricao": "Peixe à milanesa, arroz, feijão, salada de folhas",
+        "imagem": "../images/peixe-milanes.png",
+        "preco": "20.00"
+    },
+    {
+        "id": 13,
+        "titulo": "Marmita de Feijoada",
+        "descricao": "Feijoada completa, arroz, farofa, couve, laranja",
+        "imagem": "../images/feijoada.png",
+        "preco": "22.00"
+    },
+    {
+        "id": 14,
+        "titulo": "Marmita com Frango Empanado",
+        "descricao": "Frango empanado, arroz, feijão, batata frita, salada",
+        "imagem": "../images/frango-empanado.png",
+        "preco": "19.00"
+    },
+    {
+        "id": 15,
+        "titulo": "Refrigerante 500ml",
+        "descricao": "Refrigerante de cola, 500ml",
+        "imagem": "../images/coca500.png",
+        "preco": "5.00"
+    },
+    {
+        "id": 16,
+        "titulo": "Refrigerante 1L",
+        "descricao": "Refrigerante de cola, 1 litro",
+        "imagem": "../images/c1l.png",
+        "preco": "8.00"
+    },
+    {
+        "id": 17,
+        "titulo": "Refrigerante 2L",
+        "descricao": "Refrigerante de cola, 2 litros",
+        "imagem": "../images/g2l.png",
+        "preco": "12.00"
+    }
+]
