@@ -36,3 +36,35 @@ Temp/
 *.lockfile
 *.aodl
 .DS_Store
+# Ignorar tudo que não seja do projeto
+../../../*
+!*
+
+# Ignorar pastas do Windows e do OneDrive
+AppData/
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
+Saved Games/
+OneDrive/
+
+# Ignorar arquivos de sistema
+NTUSER.DAT
+*.lnk
+desktop.ini
+
+# Ignorar pastas de programas
+.AndroidStudio*
+.idea/
+.vscode/
+.node_modules/
