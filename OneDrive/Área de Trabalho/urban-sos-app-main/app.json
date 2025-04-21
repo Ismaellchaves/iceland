@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "f13691a2-274f-4c6b-8ffc-1db651952d90"
+      }
+    },
+    "android": {
+      "package": "com.ismaell.urban.sos"
+    }
+  }
+}
